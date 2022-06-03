@@ -1,8 +1,9 @@
-# awesome-metaverse-cybersecurity [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# awesome-metaverse-cybersecurity
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 Awesome metaverse cybersecurity projects.
 
 ## Table of Contents
-- [awesome-metaverse-cybersecurity ![Awesome](https://awesome.re)](#awesome-metaverse-cybersecurity-)
+- [awesome-metaverse-cybersecurity](#awesome-metaverse-cybersecurity)
   - [Table of Contents](#table-of-contents)
   - [Websites](#websites)
   - [Books](#books)
@@ -11,6 +12,7 @@ Awesome metaverse cybersecurity projects.
   - [Related](#related)
   - [Contributing](#contributing)
   - [License](#license)
+
 
 ## Websites
 - [Emergent web metaverse](https://github.com/mozilla/hubs-cloud/wiki/The-web-emergent-metaverse) - Looking at the web's past to catalyze conditions for the future Metaverse
