@@ -3,7 +3,6 @@ Awesome metaverse cybersecurity projects.
 
 ## Table of Contents
 - [awesome-metaverse-cybersecurity ![Awesome](https://awesome.re)](#awesome-metaverse-cybersecurity-)
-  - [Table of Contents](#table-of-contents)
   - [Websites](#websites)
   - [Books](#books)
   - [Papers](#papers)
