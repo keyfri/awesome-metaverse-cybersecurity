@@ -23,6 +23,7 @@ Awesome metaverse cybersecurity projects.
 
 ## Papers
 - [Parallel Intelligence in Metaverses: Welcome to Hanoi!](https://ieeexplore.ieee.org/document/9756269)
+- [A Survey on Metaverse: Fundamentals, Security, and Privacy](https://arxiv.org/abs/2203.02662)
 
 
 ## To Do List
