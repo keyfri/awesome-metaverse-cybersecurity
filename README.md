@@ -3,15 +3,17 @@
 Awesome metaverse cybersecurity projects.
 
 ## Table of Contents
-- [awesome-metaverse-cybersecurity](#awesome-metaverse-cybersecurity)
-  - [Table of Contents](#table-of-contents)
+
   - [Websites](#websites)
   - [Books](#books)
   - [Papers](#papers)
+    - [Metaverse](#metaverse)
+    - [CyberSecurity](#cybersecurity)
   - [To Do List](#to-do-list)
   - [Related](#related)
   - [Contributing](#contributing)
   - [License](#license)
+
 
 
 ## Websites
@@ -22,20 +24,23 @@ Awesome metaverse cybersecurity projects.
 - [The Web 3.0](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - Web 3.0 will connect humans, machines and artificial intelligence to change the world
 
 ## Papers
+### Metaverse
 - [Parallel Intelligence in Metaverses: Welcome to Hanoi!](https://ieeexplore.ieee.org/document/9756269)
 - [A Survey on Metaverse: Fundamentals, Security, and Privacy](https://arxiv.org/abs/2203.02662)
-
+### CyberSecurity
 
 ## To Do List
-- Add contribution instructions and pathways
-- Expanding Web 3.0 confrontation paper
+- ~~Add contribution instructions and pathways~~
+- Expanding Web 3.0 confrontation papers
+- Add CyberSecurity papers
+- Add License file
 
 ## Related
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub
 - [Awesome Metaverse](https://github.com/M3-org/awesome-metaverse) - Useful resources for Metaverse
 
 ## Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/keyfri/awesome-metaverse-cybersecurity/pulls).
+Have anything in mind that you think is awesome and would fit in this list? Please read our [contributing](Contributing.md) guidelines and feel free to send a [pull request](https://github.com/keyfri/awesome-metaverse-cybersecurity/pulls).
 
 ## License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
